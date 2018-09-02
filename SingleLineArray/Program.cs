@@ -2,11 +2,15 @@
 
 namespace SingleLineArray
 {
-    class Program
+    public static class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            Console.WriteLine("Hello World!");
+            // TODO: Initialize a single line an array with the following values: 1, 1, 2, 3, 5, 8. 
+
+            // TODO: Loop through the array using foreach and print out each value on its own line.
+
+            Console.ReadLine();
         }
     }
 }
